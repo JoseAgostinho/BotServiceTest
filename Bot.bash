@@ -2,7 +2,7 @@
 
 # VARIÁVEIS
 RESOURCE_GROUP="bot-rg"
-APP_NAME="botservice-html-$(date +%s)"  # nome único
+APP_NAME="BotTester"  # nome único
 PLAN_NAME="bot-plan"
 LOCATION="francecentral"
 
