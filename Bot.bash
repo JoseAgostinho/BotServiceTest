@@ -4,7 +4,7 @@
 RESOURCE_GROUP="bot-rg"
 APP_NAME="botservice-html-$(date +%s)"  # nome único
 PLAN_NAME="bot-plan"
-LOCATION="westeurope"
+LOCATION="francecentral"
 
 # 1. Criar Resource Group
 az group create --name $RESOURCE_GROUP --location $LOCATION
